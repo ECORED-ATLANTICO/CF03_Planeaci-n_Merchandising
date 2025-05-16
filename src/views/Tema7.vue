@@ -179,8 +179,188 @@
               li.mb-0.d-flex
                 i.fas.fa-check-circle.bg-color-9
                 p.mb-0.text-white Transmisiones en vivo con asesoría de imagen gratuita.
+    separador
 
+    #t_7_5.titulo-segundo.color-secundario(data-aos="flip-up")
+      h2 7.5 Cronograma de actividades – Diagrama de Gantt
 
+    .titulo-sexto.color-primario.mb-3
+      h5 Tabla 5.
+      span Cronograma plan de merchandising SENASHOP
+      
+    .tabla-a.color-acento-botones.mb-5
+      table
+        caption Fuente: SENA, 2025.
+        thead
+          tr
+            th.bg-color-4.text-white(width="20%") Actividades / Semanas
+            th.bg-color-4.text-white Sem.1
+            th.bg-color-4.text-white Sem.2
+            th.bg-color-4.text-white Sem.3
+            th.bg-color-4.text-white Sem.4
+            th.bg-color-4.text-white Sem.5
+            th.bg-color-4.text-white Sem.6
+            th.bg-color-4.text-white Sem.7
+            th.bg-color-4.text-white Sem.8
+            th.bg-color-4.text-white Sem.9
+            th.bg-color-4.text-white Sem.10
+            th.bg-color-4.text-white Sem.11
+            th.bg-color-4.text-white Sem.12
+        tbody
+          tr.bg-color-white
+            td Diagnóstico estratégico
+            td.bg-color-15 
+            td 
+            td
+            td
+            td 
+            td 
+            td
+            td
+            td 
+            td 
+            td
+            td
+          tr.bg-color-white
+            td Diseño del layout y promociones
+            td 
+            td.bg-color-16 
+            td.bg-color-16
+            td
+            td 
+            td 
+            td
+            td
+            td 
+            td 
+            td
+            td
+          tr.bg-color-white
+            td Implementación en tienda
+            td 
+            td 
+            td
+            td.bg-color-17
+            td.bg-color-17 
+            td.bg-color-17 
+            td.bg-color-17
+            td
+            td 
+            td 
+            td
+            td
+          tr.bg-color-white
+            td Campañas digitales
+            td 
+            td 
+            td
+            td.bg-color-18
+            td.bg-color-18 
+            td.bg-color-18 
+            td.bg-color-18
+            td.bg-color-18
+            td 
+            td 
+            td
+            td
+          tr.bg-color-white
+            td Seguimiento y evaluación
+            td 
+            td 
+            td
+            td
+            td 
+            td 
+            td
+            td
+            td.bg-color-19 
+            td.bg-color-19 
+            td.bg-color-19
+            td.bg-color-19 
+
+    separador
+
+    #t_7_6.titulo-segundo.color-secundario(data-aos="flip-up")
+      h2 7.6 Presupuesto detallado
+
+    .titulo-sexto.color-primario.mb-5
+      h5 Tabla 6.
+      span Indicadores plan de merchandising SENASHOP
+      
+    .tabla-a.color-acento-botones
+      table
+        caption Fuente: SENA, 2025.
+        thead
+          tr
+            th.bg-color-4.text-white(width="20%") Indicador
+            th.bg-color-4.text-white base
+            th.bg-color-4.text-white Meta trimestral
+        tbody
+          tr.bg-color-white
+            td Aumento en ventas
+            td $12 millones/mes
+            td $13.8 millones/mes (+15%)
+          tr.bg-color-5
+            td Tráfico en tienda
+            td 150 personas/día
+            td 180 personas/día (+20%)
+          tr.bg-color-white
+            td Seguidores en Instagram
+            td 1.500
+            td 2.000 (+33%)
+          tr.bg-color-5
+            td Clientes fidelizados
+            td 0
+            td 50 inscritos en programa QR
+          tr.bg-color-white
+            td Interacciones promedio en RRSS
+            td 80/me gusta/post
+            td 120 (+50%)
+    separador
+
+    #t_7_7.titulo-segundo.color-secundario(data-aos="flip-up")
+      h2 7.7. Presupuesto detallado
+
+    .titulo-sexto.color-primario.mb-5
+      h5 Tabla 7.
+      span Indicadores plan de merchandising SENASHOP
+      
+    .tabla-a.color-acento-botones
+      table
+        caption Fuente: SENA, 2025.
+        thead
+          tr
+            th.bg-color-4.text-white(width="70%") Categoría
+            th.bg-color-4.text-white Valor Estimado (COP)
+        tbody
+          tr.bg-color-white
+            td Visual merchandising: mobiliario, pintura, iluminación, aromatización
+            td.text-center $1.200.000
+          tr.bg-color-5
+            td Publicidad digital: diseño gráfico, campañas, anuncios pagados
+            td.text-center $800.000
+          tr.bg-color-white
+            td Promociones: kits promocionales, combos, sorteos
+            td.text-center $1.000.000
+          tr.bg-color-5
+            td Servicios y microinfluencers: pagos a influencers y asesoría externa
+            td.text-center $1.000.000
+          tr.bg-color-white
+            td.text-bold Total estimado
+            td.text-center.text-bold $4.000.000
+
+    separador
+
+    #t_7_8.titulo-segundo.color-secundario(data-aos="flip-up")
+      h2 7.8. Conclusión
+    
+    .row.mb-5
+      .col-lg-2.mb-3.mb-lg-0
+        figure
+          img(src="@/assets/curso/temas/tema7/13.png", data-aos="zoom-in")
+      .col-lg-10
+        .cajon.color-acento-contenido.p-4.mb-4.bg-color-14
+          p.mb-0 El plan de merchandising para SENASHOP responde a las necesidades de adaptación y diferenciación en un mercado competitivo como el del centro de Barranquilla. Gracias a una mezcla equilibrada de acciones visuales, sensoriales y digitales, el establecimiento podrá ofrecer una experiencia de compra superior, potenciar su identidad y lograr mayor fidelización, especialmente entre los segmentos jóvenes y conectados.
               
 
 </template>

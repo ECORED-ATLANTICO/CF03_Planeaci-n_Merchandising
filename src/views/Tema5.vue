@@ -66,7 +66,7 @@
     separador
 
     #t_5_3.titulo-segundo.color-secundario(data-aos="flip-up")
-      h2 5.3.	Tipos de indicadores
+      h2 5.3	Tipos de indicadores
     
     p.mb-5 Existen diversos tipos de indicadores que se utilizan en merchandising, y la elección de los mismos dependerá de los objetivos específicos de cada plan. Los principales son los siguientes:
 
