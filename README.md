@@ -1,8 +1,8 @@
-# **sena-base-2025 v1.0.0**
+# **Diseño de un plan de merchandising**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-atlantico.github.io/ECORED-BASE-REPO/](https://ecored-atlantico.github.io/ECORED-BASE-REPO/)
+[https://ecored-atlantico.github.io/CF03_Planeaci-n_Merchandising/](https://ecored-atlantico.github.io/CF03_Planeaci-n_Merchandising/)
 
 #
 

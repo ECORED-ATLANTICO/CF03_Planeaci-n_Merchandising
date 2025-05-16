@@ -2,31 +2,222 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: 4%
+    right: -6%
+    width: 200px
   &-2
+    animation: float2 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 25%
+    right: 77%
+    width: 200px
+  &-3
+    animation: float2 3.8s ease-in-out infinite alternate
+    position: absolute
+    top: 70%
+    right: 3%
+    width: 274px
+  &-4
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 50%
+    right: 2%
+    width: 111px
 
 @keyframes float1
   0%
     transform: translateY(20px)
   100%
     transform: translateY(0px)
+@keyframes float2
+  0%
+    transform: translateX(20px)
+  100%
+    transform: translateX(0px)
   
 .banner-principal .tarjeta
   background-position: left 50% !important
 
 .banner-principal__row .banner-principal__img
   width: 400px !important  
+.banner-principal__img
+  @media screen and (min-width: 576px)
+    padding-top: 3rem !important
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: white !important
 
+//@media (max-width: 1024px) 
+  .banner-principal .tarjeta
+    background-image: url(../assets/curso/portada/fondo-banner.svg) !important
+//@media (max-width: 430px) 
+  .banner-principal .tarjeta
+    background-image: url(../assets/curso/portada/fondo-banner-responsive.svg) !important
+.banner-interno__fondo
+    background-image: url(../assets/curso/portada/banner_interno.png) !important
 .banner-interno__titulo__icono i
   color: $color-primario
 
 figcaption
   font-weight: normal
+
+/////////Background///////////
+.bg-color
+  &-1
+    background-color: #F6F6F6
+  &-2
+    background-color: #EFF4EB !important
+  &-3
+    background-color: #FFF9E2
+  &-4
+    background-color: $color-secundario
+  &-5
+    background-color: #E3EADA
+  &-6
+    background-color: #F0F1F2 !important
+  &-7
+    background-color: #EAECF0 
+  &-8
+    background-color: #FFF5E4 !important
+  &-9
+    color: #4A732C !important
+  &-10
+    background-color: #5D9037
+  &-11
+    background-color: #12263F
+  &-12
+    background-color: #F4F4F4
+  &-13
+    background-color: rgba(0, 0, 0, 0)
+  &-14
+    background-color: #F2F2FF !important
+  &-15
+    background-color: #FFFD00
+  &-16
+    background-color: #A4CE3F
+  &-17
+    background-color: #FF0000
+  &-18
+    background-color: #00AECD
+  &-19
+    background-color: #FFBE00
+  &-20
+    background-color: #D9D9D9
+  &-21
+    background-color: #33490B
+  &-white
+    background-color: #fff
+
+///////Full Width Background//////////
+.bg-full-width
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: bottom
+  margin-inline: -3.3rem
+  @media screen and (max-width: $bp-max-sm)
+    padding-left: 1.5rem
+    padding-right: 1.5rem
+
+.bg-fondo
+  &-1
+    background-image: url("../assets/curso/bg1.png") !important
+    background-position: top
+  &-2
+    background-image: url("../assets/curso/bg2.png") !important
+    background-position: top
+  &-3
+    background-image: url("../assets/curso/bg3.svg") !important
+    background-position: top
+  &-4
+    background-image: url("../assets/curso/bg4.png") !important
+    background-position: top
+    background-size: cover  
+  &-5
+    background-image: url("../assets/curso/bg5.png") !important
+    background-position: top
+    background-size: cover
+//CLASES TITULOS//
+.titulo-con-imagen
+  display: flex
+  align-items: center
+  position: relative
+.titulo-con-imagen__fondo
+  background-color: #FFCE79
+  border-bottom-right-radius: 10px
+  padding: 10px 20px
+  display: inline-flex
+  align-items: center
+.titulo-con-imagen__imagen
+  position: absolute
+  left: -30px
+  width: 50px
+.titulo-con-imagen__texto
+  margin: 0
+  padding-left: 20px
+
+
+.tarjeta-horz
+  display: flex
+  flex-direction: column
+  align-items: center
+  img
+
+  div
+    width: 75%
+    margin: -2em 0 auto 0
+    padding: 1.5em
+    box-shadow: 0 2px 5px rgba(0,0,0,0.17)
+    border-radius: 0.5em
+    background: $white
+    z-index: 10
+    position: relative
+
+/////////Infografia////////////////
+.img-infografica__item, .img-infografica-b__item
+  width: 5.5%
+.img-infografica.color-secundario .img-infografica__item__dot:before, .img-infografica.color-secundario .img-infografica__item__dot:after
+  background-color: $color-acento-botones
+///////// Card hover --------------------------------------
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: #33490B
+  
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
+////////////Clases Reemplazadas/////////////
+.bloque-texto-b.color-secundario:before 
+    background-color: #FFF9E2
+
+.tabla-a.color-acento-botones thead
+  border-color: rgba(0, 0, 0, 0)
+.tabla-a td
+  text-align: start !important
+
+img-infografica__item
+  @media screen and (max-width: $bp-max-sm)
+    top: 80.8px !important
+
+.tabs-a__tab
+  background-color: #FFF5E4
+.tarjeta.color-acento-botones--borde 
+  background-color:#F3F5F6
+  color: #12263F
+  border: solid 4px #F3F5F6
+.acordion__activo
+  background-color: #FFF5E4
+  
