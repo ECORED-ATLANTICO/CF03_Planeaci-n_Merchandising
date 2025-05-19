@@ -16,21 +16,21 @@
           img(src="@/assets/curso/temas/tema2/1.png", data-aos="zoom-in")
       .col-lg-6.order-1.mb-3.mb-lg-0
         .bg-color-1.p-4(data-aos="fade-left")
-          p.mb-0 Dentro de la planeación del merchandising, los hitos y entregables representan puntos de control y resultados tangibles que permiten evaluar el avance y éxito de un proyecto. Los hitos son eventos clave o logros significativos que marcan el progreso de un plan; mientras que los entregables son los productos, servicios o documentos específicos que deben generarse como parte del proceso.
+          p.mb-0 Dentro de la planeación del <em>merchandising</em>, los hitos y entregables representan puntos de control y resultados tangibles que permiten evaluar el avance y éxito de un proyecto. Los hitos son eventos clave o logros significativos que marcan el progreso de un plan; mientras que los entregables son los productos, servicios o documentos específicos que deben generarse como parte del proceso.
     
     p.mb-5 Según Kerzner (2017), los hitos “representan eventos verificables dentro de un proyecto que no consumen recursos ni tienen duración, pero que reflejan el cumplimiento de objetivos parciales”. Por su parte, los entregables son definidos como “resultados concretos y medibles que se esperan al finalizar una fase o tarea específica”.
 
     .cajon.color-acento-contenido.p-4.mb-4.bg-color-14
-      p.mb-0 En el merchandising, ejemplos de hitos incluyen la aprobación del diseño del punto de venta o la instalación del mobiliario. Los entregables podrían ser los manuales visuales, planos de exhibición o los informes de ejecución.
+      p.mb-0 En el <em>merchandising</em>, ejemplos de hitos incluyen la aprobación del diseño del punto de venta o la instalación del mobiliario. Los entregables podrían ser los manuales visuales, planos de exhibición o los informes de ejecución.
 
     separador
 
     #t_2_2.titulo-segundo.color-secundario(data-aos="flip-up")
-      h2 2.2.	Características
+      h2 2.2	Características
     
     .bg-full-width.bg-fondo-2
       .p-4.p-md-5
-        p.mb-5 A continuación, se describen las principales características que deben cumplir los hitos y entregables para garantizar su utilidad y eficacia dentro de un plan de merchandising. Cada elemento se presenta de forma individual para facilitar su análisis y comprensión.
+        p.mb-5 A continuación, se describen las principales características que deben cumplir los hitos y entregables para garantizar su utilidad y eficacia dentro de un plan de <em>merchandising</em>. Cada elemento se presenta de forma individual para facilitar su análisis y comprensión.
 
         .row.align-items-start.mb-5
           .col-lg-4.mb-3.mb-lg-0
@@ -66,9 +66,9 @@
         separador
 
         #t_2_3.titulo-segundo.color-secundario(data-aos="flip-up")
-          h2 2.3.	Pautas de estructuración
+          h2 2.3	Pautas de estructuración
         
-        p.mb-5 Para estructurar correctamente los hitos y entregables en un plan de merchandising, es necesario seguir ciertas pautas metodológicas que aseguren la coherencia, la trazabilidad y la eficiencia de los procesos. A continuación, se explican algunas recomendaciones clave:
+        p.mb-5 Para estructurar correctamente los hitos y entregables en un plan de <em>merchandising</em>, es necesario seguir ciertas pautas metodológicas que aseguren la coherencia, la trazabilidad y la eficiencia de los procesos. A continuación, se explican algunas recomendaciones clave:
 
         .row
           .col-lg-4.mb-3.mb-lg-0.order-lg-2

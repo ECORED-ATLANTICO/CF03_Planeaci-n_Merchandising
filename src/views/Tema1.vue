@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Plan de Merchandising
+      h1 Plan de <em>merchandising</em>
     
     #t_1_1.titulo-segundo.color-secundario(data-aos="flip-up")
       h2 1.1 Concepto
@@ -15,19 +15,19 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/1.png')})`}"
       )(data-aos="zoom-in")
       .bloque-texto-g__texto.p-4
-        p El merchandising, como estrategia comercial integral, se ha convertido en una herramienta esencial para las empresas que desean destacarse en mercados competitivos. Más allá de la simple exhibición de productos, el merchandising implica una planificación detallada que abarca desde la organización del punto de venta hasta el análisis de resultados, con el fin de influir positivamente en la decisión de compra del consumidor (Kotler & Keller, 2016; Santesmases, 2012). <br>
-        p.mb-0 El plan de merchandising es un documento estratégico que organiza, define y orienta las acciones relacionadas con la presentación, promoción y posicionamiento de productos o servicios de un punto de venta. Su propósito es atraer al cliente, facilitar la compra y optimizar los resultados comerciales.
+        p El <em>merchandising</em>, como estrategia comercial integral, se ha convertido en una herramienta esencial para las empresas que desean destacarse en mercados competitivos. Más allá de la simple exhibición de productos, el <em>merchandising</em> implica una planificación detallada que abarca desde la organización del punto de venta hasta el análisis de resultados, con el fin de influir positivamente en la decisión de compra del consumidor (Kotler & Keller, 2016; Santesmases, 2012). <br>
+        p.mb-0 El plan de <em>merchandising</em> es un documento estratégico que organiza, define y orienta las acciones relacionadas con la presentación, promoción y posicionamiento de productos o servicios de un punto de venta. Su propósito es atraer al cliente, facilitar la compra y optimizar los resultados comerciales.
     
-    p.mb-5 Según Levy y Weitz (2012), el merchandising “involucra la planificación de la gama de productos, su disposición visual y la ambientación del establecimiento, de forma tal que se incentive el comportamiento de compra”. Por tanto, el plan articula elementos visuales, sensoriales y estratégicos que se traducen en una experiencia de compra más atractiva y rentable.
+    p.mb-5 Según Levy y Weitz (2012), el <em>merchandising</em> “involucra la planificación de la gama de productos, su disposición visual y la ambientación del establecimiento, de forma tal que se incentive el comportamiento de compra”. Por tanto, el plan articula elementos visuales, sensoriales y estratégicos que se traducen en una experiencia de compra más atractiva y rentable.
 
     separador
 
     #t_1_2.titulo-segundo.color-secundario(data-aos="flip-up")
-      h2 1.2.	Importancia
+      h2 1.2	Importancia
     
     .bg-full-width.bg-fondo-2
       .p-4.p-md-5
-        p.mb-5 El plan de merchandising cumple múltiples funciones estratégicas dentro de una organización comercial. A continuación, se describen sus principales beneficios:
+        p.mb-5 El plan de <em>merchandising</em> cumple múltiples funciones estratégicas dentro de una organización comercial. A continuación, se describen sus principales beneficios:
 
         .row.align-items-start.mb-5
           .col-lg-5.mb-3.mb-lg-0
@@ -48,35 +48,35 @@
           .col-lg-10
             .titulo-sexto.color-primario
               h5 Figura 1.
-              span Ventajas estratégicas del plan de merchandising 
+              span Ventajas estratégicas del plan de <em>merchandising</em> 
 
             figure.mb-3
               img(src="@/assets/curso/temas/tema1/3.png", data-aos="zoom-in")
-            figcaption Fuente. SENA, 2025.
+            figcaption Fuente: SENA, 2025.
     
     separador
 
     #t_1_3.titulo-segundo.color-secundario(data-aos="flip-up")
-      h2 1.3.	Estructura
+      h2 1.3	Estructura
     
-    p.mb-5 Un plan de merchandising bien estructurado debe contemplar al menos los siguientes elementos:
+    p.mb-5 Un plan de <em>merchandising</em> bien estructurado debe contemplar al menos los siguientes elementos:
 
     .titulo-sexto.color-primario.mb-5
       h5 Tabla 1.
-      span Estructura de un plan de merchandising 
+      span Estructura de un plan de <em>merchandising</em> 
       
     .tabla-a.color-acento-botones.mb-5
       table
         caption Fuente: Kotler & Keller, 2021.
         thead
           tr
-            th.bg-color-4.text-white(width="20%") Elemento
+            th.bg-color-4.text-white Elemento
             th.bg-color-4.text-white Descripción
             th.bg-color-4.text-white Ejemplos
         tbody
           tr.bg-color-white
             td Objetivos
-            td Metas claras y medibles que orientan las acciones de merchandising.
+            td Metas claras y medibles que orientan las acciones de <em>merchandising</em>.
             td 
               p 1. Aumentar en un 15 % las ventas de productos frescos en el primer trimestre.
               p.mb-0 2. Incrementar el flujo de clientes en un 20 % durante el fin de semana. 

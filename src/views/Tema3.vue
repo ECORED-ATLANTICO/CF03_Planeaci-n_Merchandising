@@ -11,18 +11,18 @@
     div.tarjeta-horz(data-aos="zoom-in").mb-5
       img(src='@/assets/curso/temas/tema3/1.png', alt='Imagen decorativa')
       div
-        p.mb-0 El éxito de cualquier estrategia de merchandising no solo depende del diseño o la ubicación del producto, sino también del equipo humano que la ejecuta. El talento humano es el motor que pone en marcha las acciones previstas en el plan. Contar con personas idóneas, comprometidas y capacitadas permite materializar los objetivos comerciales y generar experiencias positivas para los clientes.
+        p.mb-0 El éxito de cualquier estrategia de <em>merchandising</em> no solo depende del diseño o la ubicación del producto, sino también del equipo humano que la ejecuta. El talento humano es el motor que pone en marcha las acciones previstas en el plan. Contar con personas idóneas, comprometidas y capacitadas permite materializar los objetivos comerciales y generar experiencias positivas para los clientes.
     
-    p En importante analizar las principales características del talento humano en el contexto del merchandising, su perfil profesional y las responsabilidades específicas que asumen en la ejecución del plan. Comprender estos aspectos facilita una gestión efectiva de los equipos, optimizando los recursos humanos y maximizando el impacto de la estrategia.
+    p En importante analizar las principales características del talento humano en el contexto del <em>merchandising</em>, su perfil profesional y las responsabilidades específicas que asumen en la ejecución del plan. Comprender estos aspectos facilita una gestión efectiva de los equipos, optimizando los recursos humanos y maximizando el impacto de la estrategia.
 
     separador
     
     .bg-full-width.bg-fondo-2
-      .p-4.p-md-5
+      .px-4.px-md-5
         #t_3_1.titulo-segundo.color-secundario(data-aos="flip-up")
-          h2 3.1.	Características
+          h2 3.1	Características
     
-        p.mb-5 El talento humano involucrado en la planeación y ejecución del merchandising debe reunir una serie de características que lo hagan competente frente a los retos del mercado, la innovación y la interacción con el consumidor. A continuación, se presentan estas características:
+        p.mb-5 El talento humano involucrado en la planeación y ejecución del <em>merchandising</em> debe reunir una serie de características que lo hagan competente frente a los retos del mercado, la innovación y la interacción con el consumidor. A continuación, se presentan estas características:
 
         .row.align-items-start.mb-5
           .col-lg-4.mb-3.mb-lg-0
@@ -42,7 +42,7 @@
         separador
     
     #t_3_2.titulo-segundo.color-secundario(data-aos="flip-up")
-      h2 3.2.	Perfilación de cargos 
+      h2 3.2	Perfilación de cargos 
     
     p.mb-5 Una gestión adecuada del talento humano requiere de la definición clara de perfiles de cargos, donde se especifiquen funciones, competencias requeridas y niveles de responsabilidad. Esto permite seleccionar, capacitar y evaluar al personal de forma coherente con los objetivos del plan.
 
@@ -52,14 +52,14 @@
           .col-lg-8.mb-3.mb-lg-0.order-lg-2.p-4
             SlyderF(columnas="col-12 col-lg-6")
               .bg-color-white.p-4.h-100.shadow-app
-                h5.text-center.mb-4 Coordinador de Merchandising
+                h5.text-center.mb-4 Coordinador de <em>merchandising</em>
                 img.mb-(src='@/assets/curso/temas/tema3/4.png' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h5 PERFIL REQUERIDO
                 p  Profesional en mercadeo, administración o diseño, con experiencia en puntos de venta.
                 h5 FUNCIONES CLAVES
                 p.mb-0 Diseñar estrategias, coordinar al equipo, supervisar ejecución.
               .bg-color-white.p-4.h-100.shadow-app
-                h5.text-center.mb-4 Merchandiser o impulsador
+                h5.text-center.mb-4 <em>Merchandiser</em> o impulsador
                 img.mb-(src='@/assets/curso/temas/tema3/5.png' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h5 PERFIL REQUERIDO
                 p   Técnica/o en ventas o mercadeo, habilidades comunicativas y orientación al cliente.
@@ -69,7 +69,7 @@
                 h5.text-center.mb-4 Diseñador de vitrinas
                 img.mb-(src='@/assets/curso/temas/tema3/6.png' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h5 PERFIL REQUERIDO
-                p   Formación en diseño gráfico o industrial, dominio de software visual.
+                p   Formación en diseño gráfico o industrial, dominio de <em>software</em> visual.
                 h5 FUNCIONES CLAVES
                 p.mb-0 Crear conceptos visuales, bocetos y materiales de apoyo.
               .bg-color-white.p-4.h-100.shadow-app
@@ -84,25 +84,25 @@
             figure
               img(src='@/assets/curso/temas/tema3/3.png', alt='')
     
-    p.mb-5 Cada uno de estos perfiles contribuye desde su especialidad al logro de los objetivos del merchandising.
+    p.mb-5 Cada uno de estos perfiles contribuye desde su especialidad al logro de los objetivos del <em>merchandising</em>.
 
     .titulo-sexto.color-primario
       h5 Figura 2.
-      span Perfiles del talento humano en merchandising
+      span Perfiles del talento humano en <em>merchandising</em>
 
     figure.mb-3
       img(src="@/assets/curso/temas/tema3/8.svg", data-aos="zoom-in")
-    figcaption Fuente. SENA, 2025.
+    figcaption Fuente: SENA, 2025.
 
     separador
 
     #t_3_3.titulo-segundo.color-secundario(data-aos="flip-up")
-      h2 3.3.	Responsabilidades
+      h2 3.3	Responsabilidades
     
     .cajon.color-acento-contenido.p-4.mb-4.bg-color-14
       p.mb-0 Distribuir responsabilidades claras dentro del equipo humano es fundamental para el cumplimiento efectivo de los planes. Las responsabilidades se deben alinear con los resultados que se esperan y los tiempos que se han definido. 
     
-    p.mb-5 A continuación, se presentan las principales responsabilidades dentro de la ejecución del plan de merchandising. Cada sección muestra la función específica, la persona o equipo encargado de ejecutarla y una breve descripción de su propósito. Haz clic en cada título para conocer el detalle correspondiente.
+    p.mb-5 A continuación, se presentan las principales responsabilidades dentro de la ejecución del plan de <em>merchandising</em>. Cada sección muestra la función específica, la persona o equipo encargado de ejecutarla y una breve descripción de su propósito. Haz clic en cada título para conocer el detalle correspondiente.
 
     .row
       .col-lg-4.mb-3.mb-lg-0.order-lg-2
@@ -124,10 +124,10 @@
             p.mb-0 Revisar avances, comparar con KPIs y realizar ajustes.
           .tarjeta.color-acento-botones--borde.p-4(titulo="Capacitación del equipo")
             h5 Coordinador y área de formación
-            p.mb-0 Garantizar que todo el personal aplique de manera coherente las prácticas establecidas de merchandising.
+            p.mb-0 Garantizar que todo el personal aplique de manera coherente las prácticas establecidas de <em>merchandising</em>.
           
 
-    p Estas pautas no solo favorecen la organización, sino que también permiten que el equipo de trabajo se alinee en torno a metas comunes y medibles.
+    p Una gestión clara de las responsabilidades permite identificar fallas y fortalezas en el equipo. Al definir tareas y responsables, se detectan cuellos de botella y se reconoce el buen desempeño. Esto facilita ajustes eficientes y mejora el rendimiento colectivo.
 
 
 

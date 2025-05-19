@@ -17,7 +17,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/1.png')})`}"
           )(data-aos="zoom-in")
           .bloque-texto-g__texto.p-4
-            p El cronograma es una herramienta clave en la gestión de proyectos que organiza las actividades y tareas en función del tiempo. Es un gráfico o tabla donde se detallan las fechas de inicio y finalización de cada acción, lo cual facilita la programación y el seguimiento de las tareas. En el contexto del merchandising, el cronograma no solo debe reflejar la ejecución de las acciones en el punto de venta, sino también los tiempos de entrega de los entregables, los hitos importantes y la disponibilidad de recursos humanos y materiales (Kerzner, 2017; SENA, 2020).
+            p El cronograma es una herramienta clave en la gestión de proyectos que organiza las actividades y tareas en función del tiempo. Es un gráfico o tabla donde se detallan las fechas de inicio y finalización de cada acción, lo cual facilita la programación y el seguimiento de las tareas. En el contexto del <em>merchandising</em>, el cronograma no solo debe reflejar la ejecución de las acciones en el punto de venta, sino también los tiempos de entrega de los entregables, los hitos importantes y la disponibilidad de recursos humanos y materiales (Kerzner, 2017; SENA, 2020).
 
         .titulo-sexto.color-primario.mb-3
           h5 Tabla 2.
@@ -28,19 +28,19 @@
             caption Fuente: SENA, 2025.
             thead
               tr
-                th.bg-color-4.text-white(width="20%") Actividades / Semanas
-                th.bg-color-4.text-white Sem.1
-                th.bg-color-4.text-white Sem.2
-                th.bg-color-4.text-white Sem.3
-                th.bg-color-4.text-white Sem.4
-                th.bg-color-4.text-white Sem.5
-                th.bg-color-4.text-white Sem.6
-                th.bg-color-4.text-white Sem.7
-                th.bg-color-4.text-white Sem.8
-                th.bg-color-4.text-white Sem.9
-                th.bg-color-4.text-white Sem.10
-                th.bg-color-4.text-white Sem.11
-                th.bg-color-4.text-white Sem.12
+                th.bg-color-4.text-white Actividades / Semanas
+                th.p-1.bg-color-4.text-white Sem.1
+                th.p-1.bg-color-4.text-white Sem.2
+                th.p-1.bg-color-4.text-white Sem.3
+                th.p-1.bg-color-4.text-white Sem.4
+                th.p-1.bg-color-4.text-white Sem.5
+                th.p-1.bg-color-4.text-white Sem.6
+                th.p-1.bg-color-4.text-white Sem.7
+                th.p-1.bg-color-4.text-white Sem.8
+                th.p-1.bg-color-4.text-white Sem.9
+                th.p-1.bg-color-4.text-white Sem.10
+                th.p-1.bg-color-4.text-white Sem.11
+                th.p-1.bg-color-4.text-white Sem.12
             tbody
               tr.bg-color-white
                 td Diagnóstico estratégico
@@ -56,8 +56,8 @@
                 td 
                 td
                 td
-              tr.bg-color-white
-                td Diseño del layout y promociones
+              tr.bg-color-5
+                td Diseño del <em>layout</em> y promociones
                 td 
                 td.bg-color-16 
                 td.bg-color-16
@@ -84,7 +84,7 @@
                 td 
                 td
                 td
-              tr.bg-color-white
+              tr.bg-color-5
                 td Campañas digitales
                 td 
                 td 
@@ -112,15 +112,17 @@
                 td.bg-color-19 
                 td.bg-color-19
                 td.bg-color-19 
+              tr.bg-color-5
+                td(colspan="13") Nota: Las barras de colores representan semanas activas de ejecución por actividad.
 
-    p El cronograma permite tener una visión clara del progreso de la implementación del plan de merchandising, ajustando recursos y plazos de manera oportuna.
+    p El cronograma permite tener una visión clara del progreso de la implementación del plan de <em>merchandising</em>, ajustando recursos y plazos de manera oportuna.
 
     separador
 
     #t_4_2.titulo-segundo.color-secundario(data-aos="flip-up")
-      h2 4.2.	Tipos e importancia
+      h2 4.2	Tipos e importancia
     
-    p Existen varios tipos de cronogramas según el enfoque y el detalle de la información que se desee manejar. A continuación, se explican los más comunes en proyectos de merchandising:
+    p Existen varios tipos de cronogramas según el enfoque y el detalle de la información que se desee manejar. A continuación, se explican los más comunes en proyectos de <em>merchandising</em>:
 
     .row.align-items-start.mb-5
       .col-lg-4.mb-3.mb-lg-0
@@ -128,12 +130,12 @@
           img(src="@/assets/curso/temas/tema4/2.png", alt="").mb-4.mb-lg-0
       .col-lg-8
         AcordionA(tipo="b" clase-tarjeta="tarjeta bg-color-20")
-          div(titulo="Cronograma <em>Gantt</em>") Un gráfico de barras que visualiza las tareas a realizar, los plazos y las interdependencias entre ellas.
+          div(titulo="Cronograma Gantt") Un gráfico de barras que visualiza las tareas a realizar, los plazos y las interdependencias entre ellas.
           div(titulo="Cronograma de hitos") Enfocado en mostrar los eventos importantes o hitos a lo largo del proyecto, sin detallar cada tarea.
           div(titulo="Cronograma de recursos") Indica la asignación de recursos (personas, materiales, equipos) a cada tarea o actividad en el tiempo.
           div(titulo="Cronograma de fases") Organiza las actividades según etapas del proyecto, indicando claramente las fechas de inicio y fin.
           
-    p.mb-5 Además de reflejar fechas y actividades, los cronogramas cumplen funciones clave que contribuyen a la gestión eficiente de un proyecto. A continuación, se describen algunos aspectos fundamentales que explican por qué esta herramienta es indispensable en la planeación del merchandising, desde la organización de tareas hasta la mejora de la comunicación y el control del avance.
+    p.mb-5 Además de reflejar fechas y actividades, los cronogramas cumplen funciones clave que contribuyen a la gestión eficiente de un proyecto. A continuación, se describen algunos aspectos fundamentales que explican por qué esta herramienta es indispensable en la planeación del <em>merchandising</em>, desde la organización de tareas hasta la mejora de la comunicación y el control del avance.
 
     .row
       .col-lg-4.mb-3.mb-lg-0.order-lg-2
@@ -157,7 +159,7 @@
             h5 Comunicación
             p.mb-0 Mejora la coordinación del equipo, ya que todos tienen claro qué tareas deben realizar y cuándo, facilitando el trabajo conjunto.
     
-    p.mb-5 Ir al video de apoyo, donde se establece información detallada del tema plan de merchandising: 
+    p.mb-5 Ir al video de apoyo, donde se establece información detallada del tema plan de <em>merchandising</em>: 
 
     .row.justify-content-center
       .col-lg-5
@@ -170,7 +172,7 @@
     separador
 
     #t_4_3.titulo-segundo.color-secundario(data-aos="flip-up")
-      h2 4.3.	Pasos de elaboración 
+      h2 4.3	Pasos de elaboración 
     
     p.mb-5 Elaborar un cronograma efectivo requiere seguir una serie de pasos metodológicos que permitan obtener una herramienta útil y clara. Estos pasos son:
 
@@ -180,7 +182,7 @@
           img(src="@/assets/curso/temas/tema4/4.png", alt="").mb-4.mb-lg-0
       .col-lg-7
         LineaTiempoD.color-acento-botones
-          p(numero="1" titulo="Definir actividades") Identificar todas las actividades necesarias para la ejecución del plan de merchandising.
+          p(numero="1" titulo="Definir actividades") Identificar todas las actividades necesarias para la ejecución del plan de <em>merchandising</em>.
           
           p(numero="2" titulo="Establecer la duración") Fijar el tiempo necesario para realizar cada una de las actividades.
           
@@ -190,7 +192,7 @@
           p(numero="5" titulo="Establecer fechas") Fijar las fechas de inicio y finalización para cada actividad e hito.
           p(numero="6" titulo="Evaluar y ajustar") Realizar un seguimiento continuo y ajustar el cronograma según los cambios que puedan surgir.
     
-    p Este proceso asegura que el cronograma sea completo, realista y alineado con los objetivos del plan de merchandising.
+    p Este proceso asegura que el cronograma sea completo, realista y alineado con los objetivos del plan de <em>merchandising</em>.
     
 
           

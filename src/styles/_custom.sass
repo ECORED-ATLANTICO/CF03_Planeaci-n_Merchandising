@@ -203,7 +203,7 @@ figcaption
 .bloque-texto-b.color-secundario:before 
     background-color: #FFF9E2
 
-.tabla-a.color-acento-botones thead
+//.tabla-a.color-acento-botones thead
   border-color: rgba(0, 0, 0, 0)
 .tabla-a td
   text-align: start !important
@@ -220,4 +220,51 @@ img-infografica__item
   border: solid 4px #F3F5F6
 .acordion__activo
   background-color: #FFF5E4
+
+///////////// CUSTOM LINEA DE TIEMPO D
+.linea-tiempo-d__item.row.linea-tiempo-d__item--selected
+  .col-auto.linea-tiempo-d__item__col-number
+    .linea-tiempo-d__item__number.tarjeta.tarjeta--gris
+      background-color: #FFCA00 !important
+      color: $color-sistema-texto
+  .col
+    .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+      background-color: #FFF5E4
+
+/// non selected
+.linea-tiempo-d__item.row
+  .col-auto.linea-tiempo-d__item__col-number
+    .linea-tiempo-d__item__number.tarjeta.tarjeta--gris
+      background-color: #D9D9D9
+    .linea-tiempo-d__item__dots:after
+      border-left: 4px dotted #adb8c2 !important
+  .col
+    .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+      background-color: #D9D9D9
+
+.tabs-a
+  @media (min-width: 1200px) 
+    .row
+      .col-xl-3 
+        flex: 0 0 auto
+        width: 38%
+      .col-xl-9
+        flex: 0 0 auto
+        width: 62%
+  @media (min-width: 992px) 
+    .row
+      .col-lg-4 
+        flex: 0 0 auto
+        width: 51%
+      .col-lg-8 
+        flex: 0 0 auto
+        width: 49%
+
+///////////////TABLAS///////////////////
+.tabla-a td
+  text-align: start !important
+th, td, table thead th, .tabla-a th 
+  border: 2px solid #B5B5B5
+table
+  table-layout: auto
   

@@ -20,7 +20,7 @@ export default {
       tema: 'Microcontroladores y sensores',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Lea cada enunciado referente a los temas desarrollados en el componente formativo y elija entre verdadero y falso según corresponda.',
+        '<b> Objetivo:</b> lea cada enunciado referente a los temas desarrollados en el componente formativo y elija entre verdadero y falso según corresponda.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!..',
       titulo_reprobado: 'VUELVA A INTENTARLO..',
@@ -28,7 +28,7 @@ export default {
         {
           id: 1,
           texto:
-            'El plan de merchandising es un documento que organiza únicamente el inventario de un negocio.',
+            'El plan de <em>merchandising</em> es un documento que organiza únicamente el inventario de un negocio.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -51,7 +51,7 @@ export default {
         {
           id: 2,
           texto:
-            'El merchandising busca aumentar las ventas y mejorar la experiencia del cliente.',
+            'El <em>merchandising</em> busca aumentar las ventas y mejorar la experiencia del cliente.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -74,7 +74,7 @@ export default {
         {
           id: 3,
           texto:
-            'Una estructura de plan de merchandising no requiere objetivos ni estrategias.',
+            'Una estructura de plan de <em>merchandising</em> no requiere objetivos ni estrategias.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -165,7 +165,7 @@ export default {
         {
           id: 7,
           texto:
-            'Las características del talento humano en merchandising incluyen creatividad, atención al detalle y orientación al cliente.',
+            'Las características del talento humano en <em>merchandising</em> incluyen creatividad, atención al detalle y orientación al cliente.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -234,7 +234,7 @@ export default {
         {
           id: 10,
           texto:
-            'El cronograma sirve para identificar el presupuesto del plan de merchandising.',
+            'El cronograma sirve para identificar el presupuesto del plan de <em>merchandising</em>.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -371,7 +371,7 @@ export default {
         {
           id: 16,
           texto:
-            'El presupuesto solo se utiliza al inicio del plan de merchandising.',
+            'El presupuesto solo se utiliza al inicio del plan de <em>merchandising</em>.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -440,7 +440,7 @@ export default {
         {
           id: 19,
           texto:
-            'La estructura del plan de merchandising puede variar según el tipo de negocio.',
+            'La estructura del plan de <em>merchandising</em> puede variar según el tipo de negocio.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [

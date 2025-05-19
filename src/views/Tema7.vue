@@ -12,7 +12,7 @@
         div.tarjeta-horz(data-aos="zoom-in").mb-5
           img(src='@/assets/curso/temas/tema7/1.png', alt='Imagen decorativa')
           div
-            p.mb-0 A continuación, se presenta a manera de ejemplo la aplicación de un plan de merchandising integral para SENASHOP, una tienda ubicada en el centro de Barranquilla, especializada en moda y artículos de belleza para un público joven y moderno. Este ejemplo ilustra cómo se puede implementar un conjunto de estrategias visuales, sensoriales, promocionales y digitales con el fin de atraer más clientes, mejorar su experiencia de compra y aumentar las ventas tanto en la tienda física como en los canales digitales. A través de este plan, se busca optimizar el layout del punto de venta, desarrollar campañas digitales y promocionales, e involucrar al talento humano clave para alcanzar los objetivos comerciales durante el segundo trimestre de 2025.
+            p.mb-0 A continuación, se presenta a manera de ejemplo la aplicación de un plan de <em>merchandising</em> integral para SENASHOP, una tienda ubicada en el centro de Barranquilla, especializada en moda y artículos de belleza para un público joven y moderno. Este ejemplo ilustra cómo se puede implementar un conjunto de estrategias visuales, sensoriales, promocionales y digitales con el fin de atraer más clientes, mejorar su experiencia de compra y aumentar las ventas tanto en la tienda física como en los canales digitales. A través de este plan, se busca optimizar el <em>layout</em> del punto de venta, desarrollar campañas digitales y promocionales, e involucrar al talento humano clave para alcanzar los objetivos comerciales durante el segundo trimestre de 2025.
 
         #t_7_1.titulo-segundo.color-secundario(data-aos="flip-up")
           h2 7.1 Objetivo general
@@ -23,7 +23,7 @@
               img(src="@/assets/curso/temas/tema7/2.png", data-aos="zoom-in")
           .col-lg-10
             .cajon.color-acento-botones.p-4.mb-4.bg-color-8
-              p.mb-0 Diseñar y ejecutar un plan de merchandising visual, sensorial, promocional y digital que incremente el tráfico de clientes, fomente la fidelización y potencie las ventas de SENASHOP durante el segundo trimestre de 2025.
+              p.mb-0 Diseñar y ejecutar un plan de <em>merchandising</em> visual, sensorial, promocional y digital que incremente el tráfico de clientes, fomente la fidelización y potencie las ventas de SENASHOP durante el segundo trimestre de 2025.
         
         separador
 
@@ -32,37 +32,37 @@
 
     .titulo-sexto.color-primario.mb-5
       h5 Tabla 4.
-      span Hitos y entregables plan de merchandising SENASHOP
+      span Hitos y entregables, plan de <em>merchandising</em> SENASHOP
       
     .tabla-a.color-acento-botones
       table
         caption Fuente: SENA, 2025.
         thead
           tr
-            th.bg-color-4.text-white(width="20%") Hito
+            th.bg-color-4.text-white Hito
             th.bg-color-4.text-white Actividad
             th.bg-color-4.text-white Entregable
-            th.bg-color-4.text-white Tiempo Estimado
+            th.bg-color-4.text-white Tiempo estimado
         tbody
           tr.bg-color-white
             td H1
             td Diagnóstico del punto de venta y entorno competitivo
-            td Informe DOFA, análisis PESTEL y <em>benchmarking</em>
+            td Informe DOFA, análisis PESTEL y <em>benchmarking.</em>
             td Semana 1 
           tr.bg-color-5
             td H2
             td Diseño del <em>layout</em> visual y plan promocional
-            td Propuesta de distribución, vitrina y promociones
+            td Propuesta de distribución, vitrina y promociones.
             td Semana 2 a 3
           tr.bg-color-white
             td H3
             td Ejecución de cambios y campañas
-            td Implementación de mobiliario, ambientación y campañas en redes
+            td Implementación de mobiliario, ambientación y campañas en redes.
             td Semana 4 a 8
           tr.bg-color-5
             td H4
             td Evaluación y seguimiento
-            td Reporte de resultados con indicadores de ventas, tráfico y RRSS
+            td Reporte de resultados con indicadores de ventas, tráfico y RRSS.
             td Semana 10 a 12
     
     separador
@@ -90,7 +90,7 @@
                 img.mb-(src='@/assets/curso/temas/tema7/6.png' alt='AvatarTop' , style="max-width: 252px").mx-auto.mb-3
                 p.mb-0 Diseña piezas visuales para POP y redes sociales. 
               .bg-color-white.p-4.h-100.shadow-app
-                h5.text-center.mb-4 Community Manager 
+                h5.text-center.mb-4 <em>Community Manager</em> 
                 img.mb-(src='@/assets/curso/temas/tema7/7.png' alt='AvatarTop' , style="max-width: 252px").mx-auto.mb-3
                 p.mb-0 Crea contenido, interactúa con clientes y lanza campañas digitales.
               .bg-color-white.p-4.h-100.shadow-app
@@ -105,7 +105,7 @@
     separador
 
     #t_7_4.titulo-segundo.color-secundario(data-aos="flip-up")
-      h2 7.4 Estrategias de merchandising ampliadas
+      h2 7.4 Estrategias de <em>merchandising</em> ampliadas
 
     .row.justify-content-center.mb-5
       .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
@@ -118,13 +118,13 @@
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-check-circle.bg-color-9
-                p.mb-0.text-white Reorganización del layout para facilitar la circulación.
+                p.mb-0.text-white Reorganización del <em>layout</em> para facilitar la circulación.
               li.mb-0.d-flex
                 i.fas.fa-check-circle.bg-color-9
                 p.mb-0.text-white Vitrinas temáticas por temporada. Ejemplo: día de la Madre.
               li.mb-0.d-flex
                 i.fas.fa-check-circle.bg-color-9
-                p.mb-0.text-white Exhibición por outfits completos para inspirar combinaciones.
+                p.mb-0.text-white Exhibición por <em>outfits</em> completos para inspirar combinaciones.
 
       .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt.tarjeta(data-aos="flip-left")
@@ -175,7 +175,7 @@
                 p.mb-0.text-white Catálogo por <em>WhatsApp</em> y publicaciones diarias en Instagram.
               li.mb-0.d-flex
                 i.fas.fa-check-circle.bg-color-9
-                p.mb-0.text-white <em>Microinfluencers</em> barranquilleros mostrando outfits reales.
+                p.mb-0.text-white <em>Microinfluencers</em> barranquilleros mostrando <em>outfits</em> reales.
               li.mb-0.d-flex
                 i.fas.fa-check-circle.bg-color-9
                 p.mb-0.text-white Transmisiones en vivo con asesoría de imagen gratuita.
@@ -186,26 +186,26 @@
 
     .titulo-sexto.color-primario.mb-3
       h5 Tabla 5.
-      span Cronograma plan de merchandising SENASHOP
+      span Cronograma plan de <em>merchandising</em> SENASHOP
       
     .tabla-a.color-acento-botones.mb-5
       table
         caption Fuente: SENA, 2025.
         thead
           tr
-            th.bg-color-4.text-white(width="20%") Actividades / Semanas
-            th.bg-color-4.text-white Sem.1
-            th.bg-color-4.text-white Sem.2
-            th.bg-color-4.text-white Sem.3
-            th.bg-color-4.text-white Sem.4
-            th.bg-color-4.text-white Sem.5
-            th.bg-color-4.text-white Sem.6
-            th.bg-color-4.text-white Sem.7
-            th.bg-color-4.text-white Sem.8
-            th.bg-color-4.text-white Sem.9
-            th.bg-color-4.text-white Sem.10
-            th.bg-color-4.text-white Sem.11
-            th.bg-color-4.text-white Sem.12
+            th.bg-color-4.text-white Actividades / Semanas
+            th.p-1.bg-color-4.text-white Sem.1
+            th.p-1.bg-color-4.text-white Sem.2
+            th.p-1.bg-color-4.text-white Sem.3
+            th.p-1.bg-color-4.text-white Sem.4
+            th.p-1.bg-color-4.text-white Sem.5
+            th.p-1.bg-color-4.text-white Sem.6
+            th.p-1.bg-color-4.text-white Sem.7
+            th.p-1.bg-color-4.text-white Sem.8
+            th.p-1.bg-color-4.text-white Sem.9
+            th.p-1.bg-color-4.text-white Sem.10
+            th.p-1.bg-color-4.text-white Sem.11
+            th.p-1.bg-color-4.text-white Sem.12
         tbody
           tr.bg-color-white
             td Diagnóstico estratégico
@@ -222,7 +222,7 @@
             td
             td
           tr.bg-color-white
-            td Diseño del layout y promociones
+            td Diseño del <em>layout</em> y promociones
             td 
             td.bg-color-16 
             td.bg-color-16
@@ -285,37 +285,37 @@
 
     .titulo-sexto.color-primario.mb-5
       h5 Tabla 6.
-      span Indicadores plan de merchandising SENASHOP
+      span Indicadores plan de <em>merchandising</em> SENASHOP
       
     .tabla-a.color-acento-botones
       table
         caption Fuente: SENA, 2025.
         thead
           tr
-            th.bg-color-4.text-white(width="20%") Indicador
+            th.bg-color-4.text-white Indicador
             th.bg-color-4.text-white base
             th.bg-color-4.text-white Meta trimestral
         tbody
           tr.bg-color-white
             td Aumento en ventas
             td $12 millones/mes
-            td $13.8 millones/mes (+15%)
+            td $13.8 millones/mes (+15 %)
           tr.bg-color-5
             td Tráfico en tienda
             td 150 personas/día
-            td 180 personas/día (+20%)
+            td 180 personas/día (+20 %)
           tr.bg-color-white
             td Seguidores en Instagram
             td 1.500
-            td 2.000 (+33%)
+            td 2.000 (+33 %)
           tr.bg-color-5
             td Clientes fidelizados
             td 0
             td 50 inscritos en programa QR
           tr.bg-color-white
             td Interacciones promedio en RRSS
-            td 80/me gusta/post
-            td 120 (+50%)
+            td 80/me gusta/<em>post</em>
+            td 120 (+50 %)
     separador
 
     #t_7_7.titulo-segundo.color-secundario(data-aos="flip-up")
@@ -323,7 +323,7 @@
 
     .titulo-sexto.color-primario.mb-5
       h5 Tabla 7.
-      span Indicadores plan de merchandising SENASHOP
+      span Indicadores plan de <em>merchandising</em> SENASHOP
       
     .tabla-a.color-acento-botones
       table
@@ -334,19 +334,19 @@
             th.bg-color-4.text-white Valor Estimado (COP)
         tbody
           tr.bg-color-white
-            td Visual merchandising: mobiliario, pintura, iluminación, aromatización
+            td Visual <em>merchandising</em>: mobiliario, pintura, iluminación, aromatización.
             td.text-center $1.200.000
           tr.bg-color-5
-            td Publicidad digital: diseño gráfico, campañas, anuncios pagados
+            td Publicidad digital: diseño gráfico, campañas, anuncios pagados.
             td.text-center $800.000
           tr.bg-color-white
-            td Promociones: kits promocionales, combos, sorteos
+            td Promociones: kits promocionales, combos, sorteos.
             td.text-center $1.000.000
           tr.bg-color-5
-            td Servicios y microinfluencers: pagos a influencers y asesoría externa
+            td Servicios y microinfluencers: pagos a influencers y asesoría externa.
             td.text-center $1.000.000
           tr.bg-color-white
-            td.text-bold Total estimado
+            td.text-bold Total estimado.
             td.text-center.text-bold $4.000.000
 
     separador
@@ -360,7 +360,7 @@
           img(src="@/assets/curso/temas/tema7/13.png", data-aos="zoom-in")
       .col-lg-10
         .cajon.color-acento-contenido.p-4.mb-4.bg-color-14
-          p.mb-0 El plan de merchandising para SENASHOP responde a las necesidades de adaptación y diferenciación en un mercado competitivo como el del centro de Barranquilla. Gracias a una mezcla equilibrada de acciones visuales, sensoriales y digitales, el establecimiento podrá ofrecer una experiencia de compra superior, potenciar su identidad y lograr mayor fidelización, especialmente entre los segmentos jóvenes y conectados.
+          p.mb-0 El plan de <em>merchandising</em> para SENASHOP responde a las necesidades de adaptación y diferenciación en un mercado competitivo como el del centro de Barranquilla. Gracias a una mezcla equilibrada de acciones visuales, sensoriales y digitales, el establecimiento podrá ofrecer una experiencia de compra superior, potenciar su identidad y lograr mayor fidelización, especialmente entre los segmentos jóvenes y conectados.
               
 
 </template>

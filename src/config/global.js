@@ -74,7 +74,7 @@ export default {
           },
           {
             numero: '2.2',
-            titulo: 'Concepto',
+            titulo: 'Características',
             hash: 't_2_2',
           },
           {
