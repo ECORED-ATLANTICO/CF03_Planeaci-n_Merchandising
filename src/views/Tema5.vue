@@ -81,45 +81,45 @@
                 h5 DESCRIPCION 
                 p  Miden el volumen de ventas y la rentabilidad, como ventas totales, ventas por categoría o ventas por cliente.
                 h5 FORMULA
-                p Ventas totales = Precio x Cantidad vendida
+                p Ventas totales = Precio x Cantidad vendida.
                 h5 EJEMPLO  
-                p.mb-0 Si se vendieron 500 camisetas a $30 cada una: 500 x 30 = $15.000 en ventas totales
+                p.mb-0 Si se vendieron 500 camisetas a $30 cada una: 500 x 30 = $15.000 en ventas totales.
               .bg-color-white.p-4.h-100.shadow-app
                 h5.text-center.mb-4 INDICADORES DE TRAFICO
                 img.mb-(src='@/assets/curso/temas/tema5/5.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h5 DESCRIPCION 
                 p  Miden el flujo de personas que ingresan al punto de venta, como el número de visitantes por hora o día.
                 h5 FORMULA
-                p Tráfico diario = Total de visitantes / Días del mes
+                p Tráfico diario = Total de visitantes / Días del mes.
                 h5 EJEMPLO  
-                p.mb-0 Si en un mes ingresaron 3.000 personas: 3.000 / 30 = 100 visitantes diarios promedio
+                p.mb-0 Si en un mes ingresaron 3.000 personas: 3.000 / 30 = 100 visitantes diarios promedio.
               .bg-color-white.p-4.h-100.shadow-app
                 h5.text-center.mb-4 INDICADORES DE CONVERSIÓN
                 img.mb-(src='@/assets/curso/temas/tema5/5.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h5 DESCRIPCION 
                 p Evaluar tasa de conversión, es decir, el porcentaje de visitantes que realizan una compra.
                 h5 FORMULA
-                p Tasa de conversión = (Número de compradores / Número de visitantes) x 100
+                p Tasa de conversión = (Número de compradores / Número de visitantes) x 100.
                 h5 EJEMPLO  
-                p.mb-0 Si ingresan 200 personas y compran 60: (60 / 200) x 100 = 30 % de conversión
+                p.mb-0 Si ingresan 200 personas y compran 60: (60 / 200) x 100 = 30 % de conversión.
               .bg-color-white.p-4.h-100.shadow-app
                 h5.text-center.mb-4 INDICADORES DE FIDELIDAD
                 img.mb-(src='@/assets/curso/temas/tema5/5.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h5 DESCRIPCION 
                 p Miden la lealtad del cliente, como el número de compras repetidas o el tiempo promedio entre compras.
                 h5 FORMULA
-                p Frecuencia de recompra = Número de compras repetidas / Total de clientes
+                p Frecuencia de recompra = Número de compras repetidas / Total de clientes.
                 h5 EJEMPLO  
-                p.mb-0 Si 80 de 200 clientes compraron más de una vez: 80 / 200 = 0,4 (40 % de fidelidad)
+                p.mb-0 Si 80 de 200 clientes compraron más de una vez: 80 / 200 = 0,4 (40 % de fidelidad).
               .bg-color-white.p-4.h-100.shadow-app
                 h5.text-center.mb-4 INDICADORES DE EFECTIVIDAD DE LA EXHIBICIÓN
                 img.mb-(src='@/assets/curso/temas/tema5/5.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h5 DESCRIPCION 
                 p Evalúan el impacto de las exhibiciones de productos en las decisiones de compra de los clientes.
                 h5 FORMULA
-                p Efectividad de exhibición = (Ventas productos exhibidos / Ventas totales) x 100
+                p Efectividad de exhibición = (Ventas productos exhibidos / Ventas totales) x 100.
                 h5 EJEMPLO  
-                p.mb-0 Si se vendieron $4.000 de productos en exhibición y $10.000 en total: (4000 / 10000) x 100 = 40 % de efectividad
+                p.mb-0 Si se vendieron $4.000 de productos en exhibición y $10.000 en total: (4000 / 10000) x 100 = 40 % de efectividad.
   
           .col-lg-4.order-lg-1
             figure

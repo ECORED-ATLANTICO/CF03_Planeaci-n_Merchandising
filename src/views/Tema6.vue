@@ -103,7 +103,7 @@
         h5 PRESUPUESTO BASADO EN ACTIVIDADES
         p En esta técnica, se define el presupuesto según las actividades específicas que se deben realizar para alcanzar los objetivos de <em>merchandising</em>. Cada actividad recibe una asignación de recursos y los costos se calculan detalladamente.
         p Ventajas: permite una asignación precisa de recursos a actividades prioritarias. Facilita la evaluación del retorno de inversión (ROI) de cada actividad.
-        p.mb-0 Ejemplo: en un plan de <em>merchandising</em> que contempla la elaboración de displays, campañas en redes sociales y contratación de personal, el presupuesto se distribuye según el costo estimado de cada actividad. La suma de estas asignaciones individuales constituye el presupuesto total del proyecto.
+        p.mb-0 Ejemplo: en un plan de <em>merchandising</em> que contempla la elaboración de <em>displays</em>, campañas en redes sociales y contratación de personal, el presupuesto se distribuye según el costo estimado de cada actividad. La suma de estas asignaciones individuales constituye el presupuesto total del proyecto.
       .tarjeta.color-acento-botones--borde.p-4(titulo="PRESUPUESTO POR OBJETIVOS")
         h5 PRESUPUESTO POR OBJETIVOS
         p El presupuesto por objetivos se calcula en función de los resultados que se esperan lograr. Este enfoque se basa en establecer metas claras, y luego estimar los recursos necesarios para alcanzarlas. Es ideal cuando los objetivos son medibles y se puede calcular el impacto de las actividades de <em>merchandising</em> en términos de ventas, visitas al punto de venta, o participación en promociones.

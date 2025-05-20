@@ -18,10 +18,10 @@
             p En el mundo del comercio actual, lograr que un producto se destaque en el punto de venta no es cuestión de suerte, sino de estrategia. El <em>merchandising</em> se convierte en una herramienta clave para atraer clientes, optimizar espacios y aumentar las ventas. Este componente formativo lo introduce a la planeación de estas estrategias, centrándose en los elementos fundamentales para lograr una ejecución exitosa.
 
             .cajon.color-acento-botones.p-4.mb-4.bg-color-8
-              p.mb-0 A lo largo del componente, descubrirá cómo estructurar un plan de <em>merchandising</em>, organizar los hitos y entregables, definir el talento humano necesario, programar las actividades en un cronograma, establecer indicadores de seguimiento y proyectar un presupuesto. Todo esto será abordado con ejemplos prácticos y una visión clara, que te permitirá aplicar los conocimientos en contextos reales y mejorar los resultados de cualquier espacio comercial.
+              p.mb-0 A lo largo del componente, descubrirá cómo estructurar un plan de <em>merchandising</em>, organizar los hitos y entregables, definir el talento humano necesario, programar las actividades en un cronograma, establecer indicadores de seguimiento y proyectar un presupuesto. Todo esto será abordado con ejemplos prácticos y una visión clara, que permitirá aplicar los conocimientos en contextos reales y mejorar los resultados de cualquier espacio comercial.
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/Ltew0XXgn_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/phcrYBbKa3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
           figcaption Video: Sena 2025.
 
 </template>

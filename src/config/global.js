@@ -50,7 +50,7 @@ export default {
           },
           {
             numero: '1.2',
-            titulo: '1.2	Importancia',
+            titulo: 'Importancia',
             hash: 't_1_2',
           },
           {
@@ -351,7 +351,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Aaker, D. A., Kumar, V., & Day, G. S. (2013). Marketing Research (10th ed.). Wiley.',
+        'Aaker, D. A., Kumar, V., & Day, G. S. (2013). <em>Marketing Research</em> (10th ed.). Wiley.',
       link: '',
     },
     {
@@ -361,7 +361,7 @@ export default {
     },
     {
       referencia:
-        'Kerzner, H. (2017). Project management: A systems approach to planning, scheduling, and controlling (12th ed.). Wiley.',
+        'Kerzner, H. (2017). <em>Project management: A systems approach to planning, scheduling, and controlling</em> (12th ed.). Wiley.',
       link: '',
     },
     {
@@ -371,22 +371,22 @@ export default {
     },
     {
       referencia:
-        'Levy, M., & Weitz, B. A. (2012). Retailing management (8th ed.). McGraw-Hill.',
+        'Levy, M., & Weitz, B. A. (2012). <em>Retailing management</em> (8th ed.). McGraw-Hill.',
       link: '',
     },
     {
       referencia:
-        'Meredith, J. R., & Mantel, S. J. (2017). Project management: A managerial approach (9.ª ed.). Wiley.',
+        'Meredith, J. R., & Mantel, S. J. (2017). <em>Project management:</em> A managerial approach (9.ª ed.). Wiley.',
       link: '',
     },
     {
       referencia:
-        'PMI - Project Management Institute. (2021). Guía de los fundamentos para la dirección de proyectos (Guía del PMBOK®) (7.ª ed.). Project Management Institute. ',
+        'PMI - <em>Project Management Institute.</em> (2021). Guía de los fundamentos para la dirección de proyectos (Guía del PMBOK®) (7.ª ed.). <em>Project Management Institute.</em> ',
       link: '',
     },
     {
       referencia:
-        'Schwalbe, K. (2015). Gestión de proyectos (7.ª ed.). Cengage Learning.',
+        'Schwalbe, K. (2015). Gestión de proyectos (7.ª ed.). <em>Cengage Learning.</em>',
       link: '',
     },
     {
@@ -452,7 +452,7 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Alexander Rafael Acosta Bedoya',
+          nombre: 'Nelson Iván Vera Briceño',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
