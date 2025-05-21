@@ -172,7 +172,7 @@
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-check-circle.bg-color-9
-                p.mb-0.text-white Catálogo por <em>WhatsApp</em> y publicaciones diarias en Instagram.
+                p.mb-0.text-white Catálogo por WhatsApp y publicaciones diarias en Instagram.
               li.mb-0.d-flex
                 i.fas.fa-check-circle.bg-color-9
                 p.mb-0.text-white <em>Microinfluencers</em> barranquilleros mostrando <em>outfits</em> reales.

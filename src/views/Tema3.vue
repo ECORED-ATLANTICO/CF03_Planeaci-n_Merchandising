@@ -91,7 +91,7 @@
       span Perfiles del talento humano en <em>merchandising</em>
 
     figure.mb-3
-      img(src="@/assets/curso/temas/tema3/8.svg", data-aos="zoom-in")
+      img(src="@/assets/curso/temas/tema3/8.svg", data-aos="zoom-in", alt="Se detalla a continuación los perfiles del talento humano en merchandising: - Coordinador de Merchandising: dirige estrategias y coordina el equipo. - Merchandiser o Impulsador: ejecuta exhibiciones y repone productos. - Diseñador de Vitrinas: crea conceptos visuales y vitrinas. - Analista de Resultados: analiza datos y propone mejoras.")
     figcaption Fuente: SENA, 2025.
 
     separador

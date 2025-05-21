@@ -51,7 +51,7 @@
               span Ventajas estratégicas del plan de <em>merchandising</em> 
 
             figure.mb-3
-              img(src="@/assets/curso/temas/tema1/3.png", data-aos="zoom-in")
+              img(src="@/assets/curso/temas/tema1/3.png", data-aos="zoom-in", alt="El plan de merchandising permite:  - Anticipar acciones de la competencia. - Responder a cambios en el entorno. - Mejorar la comunicación entre áreas comerciales, operativas y logísticas. ")
             figcaption Fuente: SENA, 2025.
     
     separador

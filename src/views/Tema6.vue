@@ -60,25 +60,25 @@
           tr
             th.bg-color-4.text-white Componente
             th.bg-color-4.text-white Descripción
-            th.bg-color-4.text-white Costo Estimado $
+            th.bg-color-4.text-white Costo Estimado
         tbody
           tr.bg-color-white
             td Material promocional
             td Carteles, etiquetas, <em>displays</em>
-            td 4.000.000 
+            td $4.000.000 
           tr.bg-color-5
             td Publicidad
             td Anuncios en redes sociales y medios locales
-            td 4.500.000 
+            td $4.500.000 
           tr.bg-color-white
             td Personal
             td Sueldos de empleados encargados de la ejecución
-            td 10.000.000
+            td $10.000.000
           tr.bg-color-5
             td Distribución
             td Transporte de productos al punto de venta
-            td 2.000.000
-          tr.bg-color-white
+            td $2.000.000
+          tr.bg-color-white.text-bold
             td Total
             td Suma total de los costos involucrados
             td $20.500.000
