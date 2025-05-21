@@ -366,7 +366,7 @@ export default {
     },
     {
       referencia:
-        'Kotler, P., & Keller, K. L. (2021). Dirección de marketing (16.ª ed.). Pearson Educación.',
+        'Kotler, P., & Keller, K. L. (2021). Dirección de <em>marketing</em> (16.ª ed.). Pearson Educación.',
       link: '',
     },
     {
