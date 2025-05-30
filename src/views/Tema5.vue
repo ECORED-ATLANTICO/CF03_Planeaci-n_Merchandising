@@ -56,7 +56,7 @@
                 p Medición mensual del tráfico en tienda y conversión de visitantes a compradores.
               div(numero="5" titulo="Recopilar datos") 
                 p Recolectar datos de ventas, tráfico, comportamiento de los consumidores y otros aspectos relacionados.
-                p Uso de sensores de conteo de personas y software de ventas para recopilar los datos semanalmente.
+                p Uso de sensores de conteo de personas y <em>software</em> de ventas para recopilar los datos semanalmente.
               div(numero="6" titulo="Evaluar y ajustar") 
                 p Evaluar los resultados y ajustar las tácticas si los indicadores muestran que no se están cumpliendo los objetivos.
                 p Si no se cumple la meta de conversión, rediseñar la ubicación de productos y mejorar señalización.
@@ -78,45 +78,45 @@
               .bg-color-white.p-4.h-100.shadow-app
                 h5.text-center.mb-4 INDICADORES DE VENTAS
                 img.mb-(src='@/assets/curso/temas/tema5/5.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
-                h5 DESCRIPCION 
+                h5 DESCRIPCIÓN 
                 p  Miden el volumen de ventas y la rentabilidad, como ventas totales, ventas por categoría o ventas por cliente.
-                h5 FORMULA
+                h5 FÓRMULA
                 p Ventas totales = Precio x Cantidad vendida.
                 h5 EJEMPLO  
                 p.mb-0 Si se vendieron 500 camisetas a $30 cada una: 500 x 30 = $15.000 en ventas totales.
               .bg-color-white.p-4.h-100.shadow-app
-                h5.text-center.mb-4 INDICADORES DE TRAFICO
+                h5.text-center.mb-4 INDICADORES DE TRÁFICO
                 img.mb-(src='@/assets/curso/temas/tema5/5.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
-                h5 DESCRIPCION 
+                h5 DESCRIPCIÓN 
                 p  Miden el flujo de personas que ingresan al punto de venta, como el número de visitantes por hora o día.
-                h5 FORMULA
+                h5 FÓRMULA
                 p Tráfico diario = Total de visitantes / Días del mes.
                 h5 EJEMPLO  
                 p.mb-0 Si en un mes ingresaron 3.000 personas: 3.000 / 30 = 100 visitantes diarios promedio.
               .bg-color-white.p-4.h-100.shadow-app
                 h5.text-center.mb-4 INDICADORES DE CONVERSIÓN
                 img.mb-(src='@/assets/curso/temas/tema5/5.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
-                h5 DESCRIPCION 
-                p Evaluar tasa de conversión, es decir, el porcentaje de visitantes que realizan una compra.
-                h5 FORMULA
+                h5 DESCRIPCIÓN 
+                p Evaluar la tasa de conversión, es decir, el porcentaje de visitantes que realizan una compra.
+                h5 FÓRMULA
                 p Tasa de conversión = (Número de compradores / Número de visitantes) x 100.
                 h5 EJEMPLO  
                 p.mb-0 Si ingresan 200 personas y compran 60: (60 / 200) x 100 = 30 % de conversión.
               .bg-color-white.p-4.h-100.shadow-app
                 h5.text-center.mb-4 INDICADORES DE FIDELIDAD
                 img.mb-(src='@/assets/curso/temas/tema5/5.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
-                h5 DESCRIPCION 
+                h5 DESCRIPCIÓN 
                 p Miden la lealtad del cliente, como el número de compras repetidas o el tiempo promedio entre compras.
-                h5 FORMULA
+                h5 FÓRMULA
                 p Frecuencia de recompra = Número de compras repetidas / Total de clientes.
                 h5 EJEMPLO  
                 p.mb-0 Si 80 de 200 clientes compraron más de una vez: 80 / 200 = 0,4 (40 % de fidelidad).
               .bg-color-white.p-4.h-100.shadow-app
                 h5.text-center.mb-4 INDICADORES DE EFECTIVIDAD DE LA EXHIBICIÓN
                 img.mb-(src='@/assets/curso/temas/tema5/5.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
-                h5 DESCRIPCION 
+                h5 DESCRIPCIÓN 
                 p Evalúan el impacto de las exhibiciones de productos en las decisiones de compra de los clientes.
-                h5 FORMULA
+                h5 FÓRMULA
                 p Efectividad de exhibición = (Ventas productos exhibidos / Ventas totales) x 100.
                 h5 EJEMPLO  
                 p.mb-0 Si se vendieron $4.000 de productos en exhibición y $10.000 en total: (4000 / 10000) x 100 = 40 % de efectividad.
@@ -128,19 +128,34 @@
     p Estos indicadores proporcionan información crucial que puede ser utilizada para ajustar las estrategias y mejorar la eficacia del <em>merchandising</em>. 
     p.mb-5 Ir a los videos de apoyo, donde se establece información detallada del tema indicadores:
 
+
     .row.justify-content-center
-      .col-lg-5
-        a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=eN4UvzBrZ34" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
-          .anexo__texto
-            p <b>Video</b>. Tipos y características de los indicadores
-      .col-lg-5
-        a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=nCUYv5oPwJY" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
-          .anexo__texto
-            p <b>Video</b>. Interpretación de indicadores de gestión (KPI)
+      .col-lg-6
+        .tarjeta-avatar-b.mb-3
+          .tarjeta-avatar-b__img
+            img(src='@/assets/componentes/2.svg' alt='AvatarTop' style="width: 80px")
+          .tarjeta.tarjeta--azul.align-content-center
+            .row.justify-content-between.p-4
+              .col.mb-3.mb-sm-0.align-content-center
+                p.mb-0.text-white <b>Video.</b> Tipos y características de los indicadores
+              .col-sm-auto
+                a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=eN4UvzBrZ34" target="_blank")
+                  span Enlace
+                  i.fas.fa-file-download
+    .row.justify-content-center
+      .col-lg-6
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/componentes/2.svg' alt='AvatarTop' style="width: 80px")
+          .tarjeta.tarjeta--azul.align-content-center
+            .row.justify-content-between.p-4
+              .col.mb-3.mb-sm-0.align-content-center
+                p.mb-0.text-white <b>Video.</b> Interpretación de indicadores de gestión (KPI)
+              .col-sm-auto
+                a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=nCUYv5oPwJY" target="_blank")
+                  span Enlace
+                  i.fas.fa-file-download
+    
 
 
 

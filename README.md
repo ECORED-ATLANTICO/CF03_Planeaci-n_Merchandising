@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-atlantico.github.io/CF03_Planeaci-n_Merchandising/](https://ecored-atlantico.github.io/CF03_Planeaci-n_Merchandising/)
+[https://ecored-atlantico.github.io/63110189_CF03_Planeacion_Merchandising/](https://ecored-atlantico.github.io/63110189_CF03_Planeacion_Merchandising/)
 
 #
 

@@ -182,7 +182,7 @@
     separador
 
     #t_7_5.titulo-segundo.color-secundario(data-aos="flip-up")
-      h2 7.5 Cronograma de actividades – Diagrama de Gantt
+      h2 7.5 Cronograma de actividades - Diagrama de Gantt
 
     .titulo-sexto.color-primario.mb-3
       h5 Tabla 5.
@@ -319,7 +319,7 @@
     separador
 
     #t_7_7.titulo-segundo.color-secundario(data-aos="flip-up")
-      h2 7.7. Presupuesto detallado
+      h2 7.7 Presupuesto detallado
 
     .titulo-sexto.color-primario.mb-5
       h5 Tabla 7.
@@ -340,7 +340,7 @@
             td Publicidad digital: diseño gráfico, campañas, anuncios pagados.
             td.text-center $800.000
           tr.bg-color-white
-            td Promociones: kits promocionales, combos, sorteos.
+            td Promociones: <em>kits</em> promocionales, combos, sorteos.
             td.text-center $1.000.000
           tr.bg-color-5
             td Servicios y microinfluencers: pagos a influencers y asesoría externa.
@@ -352,7 +352,7 @@
     separador
 
     #t_7_8.titulo-segundo.color-secundario(data-aos="flip-up")
-      h2 7.8. Conclusión
+      h2 7.8 Conclusión
     
     .row.mb-5
       .col-lg-2.mb-3.mb-lg-0

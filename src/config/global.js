@@ -192,6 +192,31 @@ export default {
             titulo: 'Talento humano involucrado',
             hash: 't_7_3',
           },
+          {
+            numero: '7.4',
+            titulo: 'Estrategias de <em>merchandising</em> ampliadas',
+            hash: 't_7_4',
+          },
+          {
+            numero: '7.5',
+            titulo: 'Cronograma de actividades - Diagrama de Gantt',
+            hash: 't_7_5',
+          },
+          {
+            numero: '7.6',
+            titulo: 'Presupuesto detallado',
+            hash: 't_7_6',
+          },
+          {
+            numero: '7.7',
+            titulo: 'Presupuesto detallado',
+            hash: 't_7_7',
+          },
+          {
+            numero: '7.8',
+            titulo: 'Conclusión',
+            hash: 't_7_8',
+          },
         ],
       },
     ],
@@ -287,7 +312,7 @@ export default {
     {
       termino: 'Diagnóstico',
       significado:
-        'Diagnóstico análisis previo que permite tomar decisiones fundamentadas.',
+        'análisis previo que permite tomar decisiones fundamentadas.',
     },
     {
       termino: 'Eficiencia',
@@ -351,54 +376,21 @@ export default {
   referencias: [
     {
       referencia:
-        'Aaker, D. A., Kumar, V., & Day, G. S. (2013). <em>Marketing Research</em> (10th ed.). Wiley.',
-      link: '',
-    },
-    {
-      referencia:
         'Chiavenato, I. (2019). Administración de recursos humanos (10.ª ed.). McGraw-Hill.',
-      link: '',
+      link:
+        'https://www.sustanciainfinita.com/wp-content/uploads/2020/04/LIBRO-Idalberto-Chiavenato-Administraci%C3%B3n-de-recursos-humanos-El-capital-humano.pdf',
     },
     {
       referencia:
-        'Kerzner, H. (2017). <em>Project management: A systems approach to planning, scheduling, and controlling</em> (12th ed.). Wiley.',
-      link: '',
-    },
-    {
-      referencia:
-        'Kotler, P., & Keller, K. L. (2021). Dirección de <em>marketing</em> (16.ª ed.). Pearson Educación.',
-      link: '',
-    },
-    {
-      referencia:
-        'Levy, M., & Weitz, B. A. (2012). <em>Retailing management</em> (8th ed.). McGraw-Hill.',
-      link: '',
-    },
-    {
-      referencia:
-        'Meredith, J. R., & Mantel, S. J. (2017). <em>Project management:</em> A managerial approach (9.ª ed.). Wiley.',
-      link: '',
-    },
-    {
-      referencia:
-        'PMI - <em>Project Management Institute.</em> (2021). Guía de los fundamentos para la dirección de proyectos (Guía del PMBOK®) (7.ª ed.). <em>Project Management Institute.</em> ',
-      link: '',
-    },
-    {
-      referencia:
-        'Schwalbe, K. (2015). Gestión de proyectos (7.ª ed.). <em>Cengage Learning.</em>',
-      link: '',
-    },
-    {
-      referencia:
-        'SENA. (2020). Guía para la gestión del talento humano en entornos comerciales. Servicio Nacional de Aprendizaje.',
-      link: '',
-    },
-    {
-      referencia:
-        'Chiavenato, I. (2006). Introducción a la teoría general de la administración (7.ª ed.). McGraw-Hill. ',
+        'Chiavenato, I. (2006). Introducción a la teoría general de la administración (7.ª ed.). McGraw-Hill.',
       link:
         'https://frrq.cvg.utn.edu.ar/pluginfile.php/15525/mod_resource/content/0/Chiavenato%20Idalverto.%20Introducci%C3%B3n%20a%20la%20teor%C3%ADa%20general%20de%20la%20Administraci%C3%B3n.pdf',
+    },
+    {
+      referencia:
+        'Kotler, P., & Keller, K. L. (2021). Dirección de marketing (16.ª ed.). Pearson Educación.',
+      link:
+        'https://www.leo.edu.pe/wp-content/uploads/2019/12/direccion-de-marketing-philip-kotler-1.pdf',
     },
   ],
   creditos: [

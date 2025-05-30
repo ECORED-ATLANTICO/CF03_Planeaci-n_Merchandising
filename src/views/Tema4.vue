@@ -113,7 +113,7 @@
                 td.bg-color-19
                 td.bg-color-19 
               tr.bg-color-5
-                td(colspan="13") Nota: Las barras de colores representan semanas activas de ejecución por actividad.
+                td(colspan="13") Nota: las barras de colores representan semanas activas de ejecución por actividad.
 
     p El cronograma permite tener una visión clara del progreso de la implementación del plan de <em>merchandising</em>, ajustando recursos y plazos de manera oportuna.
 
@@ -158,17 +158,23 @@
           .tarjeta.color-acento-botones--borde.p-4(titulo="Comunicación")
             h5 Comunicación
             p.mb-0 Mejora la coordinación del equipo, ya que todos tienen claro qué tareas deben realizar y cuándo, facilitando el trabajo conjunto.
-    
     p.mb-5 Ir al video de apoyo, donde se establece información detallada del tema plan de <em>merchandising</em>: 
 
     .row.justify-content-center
-      .col-lg-5
-        a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=WkDndhBadWw" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
-          .anexo__texto
-            p <b>Video</b>. Cronograma y Diagramas de Gantt
-
+      .col-lg-6
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/componentes/2.svg' alt='AvatarTop' style="width: 80px")
+          .tarjeta.tarjeta--azul.align-content-center
+            .row.justify-content-between.p-4
+              .col.mb-3.mb-sm-0.align-content-center
+                p.mb-0.text-white <b>Video.</b> Cronograma y Diagramas de Gantt 
+              .col-sm-auto
+                a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=WkDndhBadWw" target="_blank")
+                  span Enlace
+                  i.fas.fa-file-download
+      
+   
     separador
 
     #t_4_3.titulo-segundo.color-secundario(data-aos="flip-up")

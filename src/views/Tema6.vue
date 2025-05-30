@@ -60,7 +60,7 @@
           tr
             th.bg-color-4.text-white Componente
             th.bg-color-4.text-white Descripción
-            th.bg-color-4.text-white Costo Estimado
+            th.bg-color-4.text-white Costo estimado
         tbody
           tr.bg-color-white
             td Material promocional
@@ -108,7 +108,7 @@
         h5 PRESUPUESTO POR OBJETIVOS
         p El presupuesto por objetivos se calcula en función de los resultados que se esperan lograr. Este enfoque se basa en establecer metas claras, y luego estimar los recursos necesarios para alcanzarlas. Es ideal cuando los objetivos son medibles y se puede calcular el impacto de las actividades de <em>merchandising</em> en términos de ventas, visitas al punto de venta, o participación en promociones.
         p Ventajas: está orientado a resultados. Permite medir la efectividad del presupuesto al compararlo con los objetivos alcanzados.
-        p.mb-0 Ejemplo: cuando el objetivo es incrementar en un 10 % las ventas de un producto durante un trimestre, el presupuesto se define en función de las actividades estratégicas necesarias como promociones, eventos o publicidad que contribuyan directamente al logro de esa meta. De esta manera, los recursos se asignan con base en los resultados esperados.
+        p.mb-0 Ejemplo: cuando el objetivo es incrementar en un 10 % las ventas de un producto durante un trimestre, el presupuesto se define en función de las actividades estratégicas necesarias, como promociones, eventos o publicidad que contribuyan directamente al logro de esa meta. De esta manera, los recursos se asignan con base en los resultados esperados.
     
     .row.mb-5
       .col-lg-2.mb-3.mb-lg-0
