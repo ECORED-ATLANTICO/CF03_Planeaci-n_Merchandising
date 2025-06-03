@@ -204,7 +204,7 @@ export default {
           },
           {
             numero: '7.6',
-            titulo: 'Presupuesto detallado',
+            titulo: 'Indicadores de evaluación',
             hash: 't_7_6',
           },
           {

@@ -281,7 +281,7 @@
     separador
 
     #t_7_6.titulo-segundo.color-secundario(data-aos="flip-up")
-      h2 7.6 Presupuesto detallado
+      h2 7.6 Indicadores de evaluación
 
     .titulo-sexto.color-primario.mb-5
       h5 Tabla 6.
